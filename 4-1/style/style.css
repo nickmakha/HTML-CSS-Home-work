@@ -1,0 +1,171 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+header{
+    height: 150px;
+    width: 100%;
+    padding: 30px;
+    background-color: rgb(196, 196, 196);
+}
+/* header nav{
+        width: 500px;
+    margin: 0 auto;
+} */
+header ul li {
+    float: left;
+    margin-right: 20px;
+    font-size: 18px;
+    padding-top: 33px;
+}
+
+/* header ul li a{
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+} */
+main{
+    background-color: white;
+}
+
+.lipsita1 img{
+    width: 100%;
+    margin: 0 0;
+    padding-top: 33px;
+}
+.statiebi {
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 33px;
+}
+
+ article {
+    width: 30%;
+    padding: 20px;
+    float: left;
+}
+
+.statia1 {
+    background-color: rgba(255, 153, 0, 1);
+}
+
+.statiasurati {
+    width: 100%;
+    height: 353px;
+    overflow: hidden;
+}
+
+.statiasurati img {
+    width: 100%;
+    height: 353px;
+}
+
+.statiatext h2 {
+    font-size: 18px;
+    padding-top: 20px;
+}
+
+.statiatext p {
+    font-size: 12px;
+    padding-top: 20px;
+}
+
+.statiatext p a {
+    color: rgba(0, 0, 0, 0.5);
+}
+
+
+.statia2 {
+    background-color: rgba(255, 199, 0, 1);
+}
+
+.statia3 {
+    background-color: rgba(255, 230, 0, 1);
+}
+
+
+footer {
+    clear: both;
+    padding-top: 47px;
+    padding-bottom: 50px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+/* SIAXLE 1 */
+.dabruneba {
+    color: rgba(0, 0, 0, 0.5);
+    padding-top: 13px;
+    padding-bottom: 13px;
+    width: 90%;
+    margin: 0 auto;
+    font-size: 12px;
+}
+
+.siaxlenika{
+    background-color: rgba(255, 153, 0, 1);
+    width: 90%;
+    height: 150px;
+    margin: 0 auto;
+    padding-top: 56px;
+}
+
+.spilossuratebi{
+    background-color: rgba(255, 199, 0, 1);
+    width: 100%;
+    height: 150px;
+    margin: 0 auto;
+    padding-top: 56px;
+}
+.spilossuratebi img {
+    width: 33.33%;
+    height: 420px;
+    overflow: hidden;
+    float: left;
+}
+.photosiaxlesi1 {
+    width: 90%;
+    height: 200px;
+    margin: 0 auto;
+}
+.siaxle1text p{
+    clear: both;
+    background-color: rgba(255, 153, 0, 1);
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 56px;
+    padding-bottom: 56px;
+    font-size: 14px;
+}
+
+/* SIAXLE 2 */
+.siaxlenika2{
+    background-color: rgba(255, 199, 0, 1);
+    width: 90%;
+    height: 200px;
+    margin: 0 auto;
+    padding-top: 60px;
+}
+.xatikosuratebi{
+    width: 90%;
+    height: 200px;
+    margin: 0 auto;
+}
+.xatikosuratebi img {
+    width: 33.33%;
+    height: 420px;
+    overflow: hidden;
+    float: left;
+}
+.siaxle2text p{
+    clear: both;
+    background-color: rgba(255, 199, 0, 1);
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 56px;
+    padding-bottom: 56px;
+    font-size: 14px;
+}
