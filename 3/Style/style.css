@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(182, 255, 182);
+}
+header{
+    padding: 30px;
+    background-color: brown;
+}
+header nav{
+    width: 500px;
+    margin: 0 auto;
+}
+header ul li{
+    float: left;
+    margin-right: 20px;
+}
+
+header ul li a{
+    color: #000000;
+    background-color: #ffffff;
+    padding: 5px 10px;
+    font-size: 18px;
+}
+
+.fa-car{
+    font-size: 150px;
+    color: red;
+}
+
+
+.kvadrati{
+    width: 150px;
+    height: 150px;
+    background-color: #000000;
+    float: left;
+    margin-right: 30px;
+}
+
+footer p{
+    clear: both;
+}
+.statiebi{
+    width: 90%;
+    margin: 0 auto;
+}
+article{
+    width: 33.33%;
+    padding: 20px;
+    background-color: #3a006e;
+    float: left;
+}
+.statia1{
+    clear: both;
+}
+.statia2{
+    background-color: #6100b5;
+}
+.statia3{
+    background-color: #8303f3;
+}
+.statiasurati{
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+}
+.statiasurati img{
+    width: 100%;
+}
+
+/* aqedan iwyeba about styles */
+
+.about{
+    background-color: #8303f3;
+}
+.about main p{
+    color: #ffffff;
+}
+
