@@ -1,0 +1,40 @@
+body{
+    background-color: darkred;
+}
+#salo{
+    color: darkkhaki;
+}
+main{
+    background-color: darkorange;
+    color: blue;
+}
+.salome{
+    color:black;
+}
+#salome{
+    color:cyan;
+}
+
+.salome{
+    color:white;
+}
+.salome2{
+    font-size: 32px;
+    border: 20px double black;
+}
+
+.jondo{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+}
+.martk{
+    width: 500px;
+    height: 900px;
+    background-color: blueviolet;
+}
+
+
+.gilaki{
+    border: none;
+}
