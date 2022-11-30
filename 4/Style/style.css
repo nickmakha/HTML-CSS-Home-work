@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+/* Фон будет черным */
+body{
+    background-color: rgb(235, 20, 20);
+}
+
+
+/* Шапка */
+header{
+    padding: 30px;
+    background-color: rgb(169, 250, 93);
+}
+/* чтобы в шапке навигация была расположена в горизонтальном положении */
+header ul li{
+    float: left;
+    margin-right: 20px;
+}
+
+
+/* чтобы в шапке навигация была расположена в горизонтальном положении и по середине */
+header nav{
+    width: 500px;
+    margin: 0 auto;
+}
+
+
+/* Чтобы поставить рамки в шапке названиям */
+header ul li a{
+    color: #000000;
+    background-color: #ffffff;
+    padding: 5px 10px;
+    font-size: 18px;
+}
+
+/* Чтобы квадраты расположить в горизинтальном положении и снизу текст был по вертикали .kvadrati+ footer p*/
+.kvadrati{
+    width: 150px;
+    height: 150px;
+    background-color: #000000;
+    float: left;
+    margin-right: 30px;
+}
+footer p{
+    clear: both;
+}
+
+/* Можно менять маркеры в ЦСС. См примеры в ЦСС */
+.vaime{
+    list-style-type: georgian;
+}
+/* Чтобы увеличить иконку атома */
+.fa-atom{
+    font-size: 150px;
+    color: greenyellow;
+
+}
+
+
+
+
+
+/* ШАПКА СТАЬИ В РАЗНЫХ ЦВЕТАХ И КАК СТАТЬЯ ДЕЛАЕТСЯ */
+.statiebi{
+    width: 90%;
+    margin: 0 auto;
+}
+article{
+    width: 33.33%;
+    padding: 20px;
+    background-color: #6100b5;
+    float: left;
+}
+.statia1{
+    clear: both;
+}
+.statia2{
+    background-color: #972bf5;
+}
+.statia3{
+    background-color: #c694f1;
+}
+.statiasurati{
+    width: 100%;
+    height: 300px;
+    overflow: hidden;
+}
+.statiasurati img{
+    width: 100%;
+}
+
+/* Отсюда начинается About */
+
+.about{
+    background-color: #972bf5;
+}
+.about main p{
+    color: beige;
+}
